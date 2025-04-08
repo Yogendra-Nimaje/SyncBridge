@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_AddDevice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_ConnectedDevice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Profile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Setting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Supports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuickGuidePopup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

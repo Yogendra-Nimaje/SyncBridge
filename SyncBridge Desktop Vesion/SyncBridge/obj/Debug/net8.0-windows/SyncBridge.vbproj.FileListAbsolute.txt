@@ -1,0 +1,43 @@
+D:\.NET Projects\SyncBridge\SyncBridge\bin\Debug\net8.0-windows\SyncBridge.exe
+D:\.NET Projects\SyncBridge\SyncBridge\bin\Debug\net8.0-windows\SyncBridge.deps.json
+D:\.NET Projects\SyncBridge\SyncBridge\bin\Debug\net8.0-windows\SyncBridge.runtimeconfig.json
+D:\.NET Projects\SyncBridge\SyncBridge\bin\Debug\net8.0-windows\SyncBridge.dll
+D:\.NET Projects\SyncBridge\SyncBridge\bin\Debug\net8.0-windows\SyncBridge.pdb
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.Form1.resources
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.vbproj.GenerateResource.cache
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.AssemblyInfoInputs.cache
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.AssemblyInfo.vb
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.vbproj.CoreCompileInputs.cache
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.dll
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\refint\SyncBridge.dll
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.pdb
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.genruntimeconfig.cache
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\ref\SyncBridge.dll
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.vbproj.AssemblyReference.cache
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.vbproj.Up2Date
+D:\.NET Projects\SyncBridge\SyncBridge\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\.NET Projects\SyncBridge\SyncBridge\bin\Debug\net8.0-windows\System.Management.dll
+D:\.NET Projects\SyncBridge\SyncBridge\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.Resources.resources
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.frm_Dashboard.resources
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.frm_AddDevice.resources
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.frm_ConnectedDevice.resources
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.frm_Profile.resources
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.frm_setting.resources
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.frm_Supports.resources
+D:\.NET Projects\SyncBridge\SyncBridge\bin\Debug\net8.0-windows\FireSharp.dll
+D:\.NET Projects\SyncBridge\SyncBridge\bin\Debug\net8.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\.NET Projects\SyncBridge\SyncBridge\bin\Debug\net8.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+D:\.NET Projects\SyncBridge\SyncBridge\bin\Debug\net8.0-windows\Microsoft.Threading.Tasks.dll
+D:\.NET Projects\SyncBridge\SyncBridge\bin\Debug\net8.0-windows\System.Net.Http.Extensions.dll
+D:\.NET Projects\SyncBridge\SyncBridge\bin\Debug\net8.0-windows\System.Net.Http.Primitives.dll
+D:\.NET Projects\SyncBridge\SyncBridge\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.QuickGuidePopup.resources
+D:\.NET Projects\SyncBridge\SyncBridge\bin\Debug\net8.0-windows\QRCoder.dll
+D:\.NET Projects\SyncBridge\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.frm_Login.resources
+D:\.NET Projects\SyncBridge\SyncBridge\bin\Debug\net8.0-windows\SyncBridge.dll.config
+D:\Download 2\Seminar Topic\Project\SyncBridge\SyncBridge Desktop Vesion\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.vbproj.AssemblyReference.cache
+D:\Download 2\Seminar Topic\Project\SyncBridge\SyncBridge Desktop Vesion\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.dll
+D:\Download 2\Seminar Topic\Project\SyncBridge\SyncBridge Desktop Vesion\SyncBridge\obj\Debug\net8.0-windows\refint\SyncBridge.dll
+D:\Download 2\Seminar Topic\Project\SyncBridge\SyncBridge Desktop Vesion\SyncBridge\obj\Debug\net8.0-windows\SyncBridge.pdb
